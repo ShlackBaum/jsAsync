@@ -1,0 +1,18 @@
+{
+  "type": "module",
+  "dependencies": {
+    "process": "^0.11.10",
+    "readline": "^1.3.0"
+  },
+  "name": "block4",
+  "version": "1.0.0",
+  "main": "hw1.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
